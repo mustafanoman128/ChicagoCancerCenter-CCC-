@@ -10,6 +10,6 @@ This repository contains a Power BI dashboard project developed for the Chicago 
 - Data-Driven Recommendations: Supports decisions related to clinic consolidation and resource allocation.
 
 ### Tools & Technologies:
-Power BI for visualization
-Excel for data cleaning and manipulation
+Power BI for visualization,
+Excel for data cleaning and manipulation, and
 Python/SQL (Optional) for additional analysis
